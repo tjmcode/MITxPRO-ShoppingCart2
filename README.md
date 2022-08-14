@@ -37,6 +37,13 @@ npx http-server -c-1
 localhost:8080
 ```
 
+
+* Or--after starting the MITxPRO-StrapiDB project--just use...
+```
+npm start
+```
+
+
 * Demonstration of valid project install/startup...
 
 <p align="left"><img src=".\app-example.png" width="720" title="Server Valid Startup..."></p>
